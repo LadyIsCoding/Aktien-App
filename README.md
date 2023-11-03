@@ -1,2 +1,2 @@
 # Aktien-App
-Aktien Simulation als Resultat einer Gruppenarbeit im Pythonunterricht
+stocks simulation app, a result of a small group project in python course
